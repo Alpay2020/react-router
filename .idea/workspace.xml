@@ -6,6 +6,15 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
     <select />
   </component>
@@ -26,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/router" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dUEtknnm4qg6xEv9aMAvhZozP3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -40,7 +49,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -70,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592471488055</updated>
       <workItem from="1592471492680" duration="6000" />
-      <workItem from="1592471761209" duration="3765000" />
+      <workItem from="1592471761209" duration="4273000" />
     </task>
     <servers />
   </component>
@@ -80,6 +89,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/router" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -87,6 +121,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/router" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state width="1398" height="209" key="GridCell.Tab.0.bottom" timestamp="1592472568144">
@@ -105,9 +144,13 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1398" height="209" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1592472568143" />
-    <state x="273" y="49" key="SettingsEditor" timestamp="1592475715626">
+    <state x="273" y="49" key="SettingsEditor" timestamp="1592488208785">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="273" y="49" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1592475715626" />
+    <state x="273" y="49" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1592488208785" />
+    <state x="688" y="329" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1592488083747">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="688" y="329" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.812@0.23.1440.812" timestamp="1592488083747" />
   </component>
 </project>
